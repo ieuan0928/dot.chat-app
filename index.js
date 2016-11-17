@@ -1,0 +1,1 @@
+console.log("starting dojsys.chat service");

@@ -1,0 +1,8 @@
+{
+    "name"              : "dojsys.chat",
+    "version"           : "1.0.0",
+    "private"           : true,
+    "dependencies": {
+        "socket.io"     : "^1.5.1"
+    }
+}
